@@ -8,6 +8,8 @@ public class Main {
 	int c=a+b;
   c=c+8;
   c=c+5;
+	    /////
+	    c+=3;
 	System.out.println(c);
     }
 }
