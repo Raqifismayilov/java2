@@ -7,6 +7,7 @@ public class Main {
 	int b=45;
 	int c=a+b;
   c=c+8;
+  c=c+5;
 	System.out.println(c);
     }
 }
